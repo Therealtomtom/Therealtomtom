@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Therealtomtom
+- 👋 Hi, I’m @Soultom 
 - 👀 I’m interested in code and web development 
 - 🌱 I’m currently starting from scratch and have at the moment no knowledge about coding 
 - 💞️ I’m looking to improve on everything, especially HTML, CSS and Javascript for now 
